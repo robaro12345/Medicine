@@ -1,0 +1,23 @@
+/* In your global CSS file or within a @layer directive in your Tailwind CSS config */
+.btn-primary {
+  @apply px-4 py-2 text-white bg-blue-500 rounded-lg hover:bg-blue-600 transition duration-300;
+}
+
+.btn-secondary {
+  @apply px-4 py-2 text-gray-800 border border-gray-300 rounded-lg hover:bg-gray-100 transition duration-300;
+}
+/* Hero.css */
+
+.parallax-bg {
+  background-image: url('/images/hero.jpg'); /* Update with your image path */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+
+.parallax-content {
+  position: relative;
+  z-index: 10;
+}

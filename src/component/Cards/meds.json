@@ -1,0 +1,90 @@
+[
+    {
+      "disease": "Fever",
+      "medications": [
+        {
+          "name": "Paracetamol",
+          "description": "Used to reduce fever and relieve mild to moderate pain."
+        },
+        {
+          "name": "Ibuprofen",
+          "description": "An NSAID used to reduce fever, pain, and inflammation."
+        }
+      ]
+    },
+    {
+      "disease": "Headache",
+      "medications": [
+        {
+          "name": "Aspirin",
+          "description": "Used to relieve pain, reduce fever, and reduce inflammation."
+        }
+      ]
+    },
+    {
+      "disease": "Allergies",
+      "medications": [
+        {
+          "name": "Loratadine",
+          "description": "An antihistamine used to relieve allergy symptoms."
+        },
+        {
+          "name": "Cetirizine",
+          "description": "An antihistamine used to treat allergic rhinitis and chronic urticaria."
+        }
+      ]
+    },
+    {
+      "disease": "Cough",
+      "medications": [
+        {
+          "name": "Cough Syrup",
+          "description": "Relieves coughs caused by colds, flu, or other respiratory conditions."
+        },
+        {
+          "name": "Dextromethorphan",
+          "description": "A cough suppressant used to treat dry coughs."
+        }
+      ]
+    },
+    {
+      "disease": "Bacterial Infections",
+      "medications": [
+        {
+          "name": "Amoxicillin",
+          "description": "An antibiotic used to treat a variety of bacterial infections."
+        },
+        {
+          "name": "Azithromycin",
+          "description": "An antibiotic used to treat infections of the respiratory tract, skin, and other areas."
+        }
+      ]
+    },
+    {
+      "disease": "Diabetes",
+      "medications": [
+        {
+          "name": "Metformin",
+          "description": "An oral medication used to control blood sugar levels in type 2 diabetes."
+        },
+        {
+          "name": "Insulin",
+          "description": "Hormone therapy to help control blood sugar levels in diabetes."
+        }
+      ]
+    },
+    {
+      "disease": "Inflammation",
+      "medications": [
+        {
+          "name": "Prednisone",
+          "description": "A corticosteroid used to reduce inflammation and suppress the immune system."
+        },
+        {
+          "name": "Naproxen",
+          "description": "An NSAID used to reduce pain, fever, and inflammation."
+        }
+      ]
+    }
+  ]
+  
